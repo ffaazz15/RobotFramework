@@ -1,0 +1,12 @@
+#after u install selenium ,robotframework and robotframework-library
+#u need to add this in setting in interpreter section
+#add intellibot because it has all keywords
+#copied chrome driver in bin folder of current directories venv
+
+
+#a normal robot frame work has 4 things on compulsory
+S V T K
+$settings
+$variable
+$Testcase
+$keyword
